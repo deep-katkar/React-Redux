@@ -1,0 +1,16 @@
+body {
+  background-color: #212121;
+  color: wheat;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  column-gap: 20px;
+}
+
+.single {
+  margin: 50px 0;
+}
